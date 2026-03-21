@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=ML%20Analysis%20Portfolio&fontSize=46&animation=fadeIn&fontAlignY=36&fontColor=ffffff&desc=EDA%20%E2%80%A2%20Statistical%20Modeling%20%E2%80%A2%20Business%20Intelligence%20%E2%80%A2%20Visual%20Storytelling&descAlignY=58&descColor=cccccc&descSize=16)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Machine+Learning+and%20AI%20Portfolio&fontSize=46&animation=fadeIn&fontAlignY=36&fontColor=ffffff&desc=End-to-End+ML+Pipelines%20%E2%80%A2%20Feature+Engineering%20%E2%80%A2%20AI+Researcher+and+Learner&descAlignY=58&descColor=cccccc&descSize=16)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=17&duration=3000&pause=800&color=4ECDC4&center=true&vCenter=true&width=750&lines=Data+Scientist+%7C+ML+Engineer+%7C+AI+Researcher;End-to-End+ML+Pipelines+%E2%80%A2+Feature+Engineering+%E2%80%A2+SHAP;Scikit-learn+%7C+TensorFlow+%7C+PyTorch+%7C+OpenCV;IIT+Kharagpur+Hackathon+Pre-Finalist+%F0%9F%8F%86+Top+20%2F800%2B" alt="Typing SVG" />
 
@@ -18,19 +18,7 @@
 ## 👩‍💻 About This Repository
 
 I'm **Garima Srivastava**, a Data Science & AI student at SRMU. I maintain **two separate portfolios** so recruiters can quickly find the right work:
-
-<div align="center">
-
-| Portfolio | Repo | Focus |
-|-----------|------|-------|
-| 🤖 **This Repo — ML & AI** | [`ml-ai-portfolio`](https://github.com/GnS004/ml-ai-portfolio) | ML Pipelines · Deep Learning · SHAP · CV |
-| 📊 **Data Analysis** | [`data-analysis-portfolio`](https://github.com/GnS004/data-analysis-portfolio) | EDA · Stats · BI · Dashboards |
-
-</div>
-
----
-
-## 📁 Project Index
+### 📁 Project Index
 
 <div align="center">
 
@@ -124,12 +112,6 @@ Real-time Bounding Box Output + Alert Trigger
 > This repo is **ML & AI only**. For data analysis, EDA, BI, and statistical projects:
 >
 > **→ [github.com/GnS004/data-analysis-portfolio](https://github.com/GnS004/data-analysis-portfolio)**
-
-| DA Repo | Skill Shown |
-|---------|-------------|
-| [Covid-weather-analysis---DA-](https://github.com/GnS004/Covid-weather-analysis---DA-) | Statistical correlation · Research methods |
-| [Customer-Behavior-Analysis-Insights](https://github.com/GnS004/Customer-Behavior-Analysis-Insights) | Funnel analysis · Business analytics |
-| [data-analysis-portfolio](https://github.com/GnS004/data-analysis-portfolio) | EDA · BI dashboards · A/B testing · Forecasting |
 
 ---
 
